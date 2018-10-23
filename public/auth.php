@@ -1,5 +1,5 @@
 <?php
-require_once('vendor/autoload.php');
+require_once('../vendor/autoload.php');
 
 
 // Check if this is a POST request to verify the auth code

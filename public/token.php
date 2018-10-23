@@ -1,5 +1,5 @@
 <?php
-require_once('vendor/autoload.php');
+require_once('../vendor/autoload.php');
 
 // Sanitize the input first
 $code = preg_replace('/[^A-Za-z0-9]/', '', post('code'));
