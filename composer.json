@@ -1,0 +1,12 @@
+{
+    "require": {
+        "predis/predis": "^1.1",
+        "p3k/utils": "^1.2"
+    },
+    "autoload": {
+      "files": [
+        "lib.php",
+        "users.php"
+      ]
+    }
+}
